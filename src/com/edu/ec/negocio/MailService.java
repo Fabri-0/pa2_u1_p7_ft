@@ -7,5 +7,7 @@ public class MailService {
         System.out.println("Asunto: " + asunto);
         System.out.println("Cuerpo: " + cuerpo);
         System.out.println("Correo enviado cone exito.");
+
+        System.out.println("Fin del envio de correo");
     }
 }
